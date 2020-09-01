@@ -14,3 +14,7 @@ El formato para introducir en el formulario es el siguiente (que se puede repeti
 `palabra clave`, `número de búsquedas`;
 
 `palabra clave`, `número de búsquedas`;
+
+### Práctica p01
+
+Esta práctica finalizó definitivamente el 02/09/2020.
