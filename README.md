@@ -9,7 +9,10 @@ Al acceder a la ruta de la carpeta automáticamente se ejecutará el archivo `in
 
 El formato para introducir en el formulario es el siguiente:
 
-`palabra clave`, `número de búsquedas`; \n
-`palabra clave`, `número de búsquedas`; \n
-`palabra clave`, `número de búsquedas`; \n
+`palabra clave`, `número de búsquedas`;
+
+`palabra clave`, `número de búsquedas`;
+
+`palabra clave`, `número de búsquedas`;
+
 ...
