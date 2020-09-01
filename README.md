@@ -7,12 +7,10 @@ Su método de empleo es bastante simple. Ejecutándose en un alojamiento web o s
 
 Al acceder a la ruta de la carpeta automáticamente se ejecutará el archivo `index.php`. En este aparece un formulario muy básico, en el que si se sigue el patrón lógico reflejado en el `placeholder` del formulario y se da a enviar, aparecerá una tabla con el Interlinking de los valores introducidos (las palabras clave y su número de búsquedas).
 
-El formato para introducir en el formulario es el siguiente:
+El formato para introducir en el formulario es el siguiente (que se puede repetir indefinidamente):
 
 `palabra clave`, `número de búsquedas`;
 
 `palabra clave`, `número de búsquedas`;
 
 `palabra clave`, `número de búsquedas`;
-
-...
